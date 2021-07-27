@@ -1,0 +1,19 @@
+body {
+  /* height: 100vh; */
+  /* width: 100vw; */
+  background-image: linear-gradient(to top, #a8edea 0%, #fed6e3 100%);
+}
+.digital-Clock-container {
+  text-align: center;
+}
+.container {
+  max-width: 100%;
+}
+.text-secondary {
+  z-index: 11111;
+  text-align: center;
+}
+.codeblock {
+  height: 100vh;
+  overflow-y: scroll;
+}
